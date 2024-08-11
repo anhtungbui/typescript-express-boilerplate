@@ -1,9 +1,11 @@
-# TypeScript Node Boilerplate
+# TypeScript Express Boilerplate 🚀
 
-Minimalistic project template to jump start a Node.js back-end application in TypeScript
+- Minimalistic project template to jump start an Express.js back-end application in TypeScript
+- Don't need Express.js? Check out [typescript-node-boilerplate](https://github.com/anhtungbui/typescript-node-boilerplate) instead.
 
-## Pre-configured tools
+## Pre-configured tools ⚙️
 
+- Dotenv
 - ESLint
 - Prettier
 - Jest
@@ -28,8 +30,8 @@ There are many ways to use the template:
 To clone the repository, use the following commands:
 
 ```bash
-git clone https://github.com/anhtungbui/typescript-node-boilerplate
-cd typescript-node-boilerplate
+git clone https://github.com/anhtungbui/typescript-express-boilerplate
+cd typescript-express-boilerplate
 npm install
 ```
 
@@ -43,9 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-1. https://www.youtube.com/watch?v=H91aqUHn8sE
+1. https://github.com/anhtungbui/typescript-node-boilerplate
 2. https://blog.logrocket.com/how-to-set-up-node-typescript-express/
-3. https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
-4. https://kulshekhar.github.io/ts-jest/docs/getting-started/installation#jest-config-file
-5. https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
-6. https://github.com/jsynowiec/node-typescript-boilerplate
