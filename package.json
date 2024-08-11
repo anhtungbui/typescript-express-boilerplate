@@ -1,14 +1,14 @@
 {
-  "name": "typescript-node-boilerplate",
+  "name": "typescript-express-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/server.js",
   "type": "module",
   "scripts": {
     "test": "npx jest",
     "test:watch": "npx jest --watch",
     "build": "npx tsc",
-    "start": "node dist/index.js",
+    "start": "node dist/server.js",
     "dev": "npx nodemon",
     "format:check": "npx prettier . --check",
     "format:fix": "npx prettier . --write",
