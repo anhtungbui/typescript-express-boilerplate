@@ -1,4 +1,4 @@
-import { sum } from '../src/index'
+import { sum } from '../src/utils'
 
 test('sum() should return the correct sum of two numbers', () => {
   expect(sum(2, 3)).toBe(5)
